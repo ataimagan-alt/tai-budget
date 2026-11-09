@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Tai Budget</string>
+    <string name="title_activity_main">Tai Budget</string>
+    <string name="package_name">local.tai.budget</string>
+    <string name="custom_url_scheme">local.tai.budget</string>
+</resources>
